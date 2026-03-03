@@ -17,6 +17,7 @@ This repository contains basic Java programs for practicing core programming con
 - Sum of Digits
 - Sum of Numbers
 - For Loop
+- Fibonacci series
 
 ---
 
