@@ -19,6 +19,7 @@ This repository contains basic Java programs for practicing core programming con
 - For Loop
 - Fibonacci series
 - Largest number
+- Even and Odd digit
 
 ---
 
