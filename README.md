@@ -12,7 +12,6 @@ This repository contains basic Java programs for practicing core programming con
 - Palindrome (String)
 - Prime Number
 - Reverse Integer
-- Reverse Number
 - Reverse String
 - Sum of Digits
 - Sum of Numbers
