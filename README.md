@@ -20,6 +20,6 @@ This repository contains basic Java programs for practicing core programming con
 - Largest number
 - Even and Odd digit
 
----
+-----
 
 Created by Anwesha
