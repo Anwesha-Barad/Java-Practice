@@ -4,7 +4,6 @@ This repository contains basic Java programs for practicing core programming con
 
 ## Programs Included
 
-
 - Armstrong Number
 - Count Digits
 - Factorial
