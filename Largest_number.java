@@ -9,7 +9,6 @@ class Largest_number{
         int b= sc.nextInt();
          System.out.print("enter third number:");
         int c= sc.nextInt();
-
         if(a>b && a>c){
             System.out.println(a+" is largest");
         }
